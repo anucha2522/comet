@@ -1,4 +1,4 @@
-import { scenario } from './context/CometContext';
+import { scenario, CometContext } from './context/CometContext';
 import { expect } from 'chai';
 import { BigNumberish, constants, utils } from 'ethers';
 import { exp } from '../test/helpers';
